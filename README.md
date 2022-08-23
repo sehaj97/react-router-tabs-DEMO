@@ -1,4 +1,4 @@
-# Banking Navbar
+# Tabs Demo
 
 This Project utilizes React, React Router V6, and Tailwind Css. This mini project demonstrates the skills involved utilizing react router ability to an extent where switch between pages also passes down the props to the components while at the same time handling nested linkiing.
 

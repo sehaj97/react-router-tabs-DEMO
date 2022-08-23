@@ -14,3 +14,7 @@ Install all the dependancies [ make sure you are using latest version of node at
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Improve React App Performance Report
+
+[google link to report](https://docs.google.com/document/d/1MZ_ioSZ4h0c69TikbKSRL94Idx0vNzDah_-kGHBc5zk/edit?usp=sharing)
